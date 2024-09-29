@@ -1,4 +1,6 @@
 # crackmes
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 compile the files with 
 ```bash
 gcc crack1.c -o crack1
